@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MovieTheatre\\x64\\Debug\\camera.obj",
+            "outputs": [
+                "MovieTheatre\\x64\\Debug\\camera.h.obj.dt.module.json",
+                "MovieTheatre\\x64\\Debug\\camera.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
